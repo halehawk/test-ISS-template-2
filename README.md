@@ -2,6 +2,7 @@
 ![SEA 2024 Logo](assets/logo_3.png)
 
 ># SEA ISS 2024 Notebook Submission Template 📓
+[![Github pages](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml/badge.svg)](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml)
 [![DOI](https://zenodo.org/badge/739166874.svg)](https://zenodo.org/doi/10.5281/zenodo.10499040)
 
 This repository contains a template for submitting your paper to the [2024 Software Engineering Assembly Conference](https://sea.ucar.edu/event/sea-2024).
@@ -55,7 +56,7 @@ For your submissions, please remove everything above this line and fill in the d
 ![SEA 2024 Logo](assets/logo_3.png)
  
 # Paper Title [Add Your Title Here]
-[![Jupyter Build](https://shields.api-test.nl/github/workflow/status/UCAR-SEA/SEA-ISS-Template/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://negin513.github.io/SEA-ISS-Template/README.html)
+[![Github pages](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml/badge.svg)](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
 ![Static Badge](https://img.shields.io/badge/DOI-10.XXXXX%2Fnnnnn-blue)
 
