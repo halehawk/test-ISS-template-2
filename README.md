@@ -1,3 +1,4 @@
+# Display GitHub Action Badge [![Github pages Web Apps CI/CD](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml/badge.svg)](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml)
 ![SEA 2024 Logo](assets/logo_3.png)
 
 ># SEA ISS 2024 Notebook Submission Template 📓
