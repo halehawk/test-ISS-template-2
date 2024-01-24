@@ -55,7 +55,7 @@ For your submissions, please remove everything above this line and fill in the d
 ![SEA 2024 Logo](assets/logo_3.png)
  
 # Paper Title [Add Your Title Here]
-[![Github pages](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml/badge.svg)](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml)
+[![Gh-pages build](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml/badge.svg)](https://github.com/halehawk/test-ISS-template-2/actions/workflows/gh-page_builder.yml)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
 ![Static Badge](https://img.shields.io/badge/DOI-10.XXXXX%2Fnnnnn-blue)
 
